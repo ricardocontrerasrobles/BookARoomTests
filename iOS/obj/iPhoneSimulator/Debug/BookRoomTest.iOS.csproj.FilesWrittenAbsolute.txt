@@ -1,0 +1,11 @@
+/Users/ricardocontreras/Projects/BookRoomTest/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/ricardocontreras/Projects/BookRoomTest/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/ricardocontreras/Projects/BookRoomTest/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/ricardocontreras/Projects/BookRoomTest/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/ricardocontreras/Projects/BookRoomTest/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/ricardocontreras/Projects/BookRoomTest/iOS/bin/iPhoneSimulator/Debug/BookRoomTest.iOS.exe.mdb
+/Users/ricardocontreras/Projects/BookRoomTest/iOS/bin/iPhoneSimulator/Debug/BookRoomTest.iOS.exe
+/Users/ricardocontreras/Projects/BookRoomTest/iOS/obj/iPhoneSimulator/Debug/BookRoomTest.iOS.exe
+/Users/ricardocontreras/Projects/BookRoomTest/iOS/obj/iPhoneSimulator/Debug/BookRoomTest.iOS.exe.mdb
+/Users/ricardocontreras/Projects/BookRoomTest/iOS/bin/iPhoneSimulator/Debug/BookRoomTest.dll
+/Users/ricardocontreras/Projects/BookRoomTest/iOS/bin/iPhoneSimulator/Debug/BookRoomTest.dll.mdb

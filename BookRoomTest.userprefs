@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{487B9D3E-04EE-45B7-B68C-AA580B6358B2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/ViewController.cs">
+    <Files>
+      <File FileName="iOS/ViewController.cs" Line="24" Column="35" />
+      <File FileName="iOS/ViewController.designer.cs" Line="15" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BookRoomTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2D54144D-1607-493E-8E56-38B36CFED30E" />
+</Properties>

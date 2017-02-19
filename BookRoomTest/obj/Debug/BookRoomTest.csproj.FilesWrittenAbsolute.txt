@@ -1,0 +1,5 @@
+/Users/ricardocontreras/Projects/BookRoomTest/BookRoomTest/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/ricardocontreras/Projects/BookRoomTest/BookRoomTest/bin/Debug/BookRoomTest.dll.mdb
+/Users/ricardocontreras/Projects/BookRoomTest/BookRoomTest/bin/Debug/BookRoomTest.dll
+/Users/ricardocontreras/Projects/BookRoomTest/BookRoomTest/obj/Debug/BookRoomTest.dll
+/Users/ricardocontreras/Projects/BookRoomTest/BookRoomTest/obj/Debug/BookRoomTest.dll.mdb

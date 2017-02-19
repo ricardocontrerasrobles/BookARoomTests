@@ -1,0 +1,4 @@
+BookRoomTest.Droid.MainActivity, BookRoomTest.Droid;md5591f5d34981105ad97472152e40e4715.MainActivity
+BookRoomTest.Droid.MainActivity, BookRoomTest.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5591f5d34981105ad97472152e40e4715.MainActivity
+BookRoomTest.Droid.MainActivity;md5591f5d34981105ad97472152e40e4715.MainActivity
+bookroomtest.droid.MainActivity;md5591f5d34981105ad97472152e40e4715.MainActivity
